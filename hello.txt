@@ -5,3 +5,5 @@ master new file
 Creating a new branch is quick and simple
 fast forward
 stash
+git add
+git commit
